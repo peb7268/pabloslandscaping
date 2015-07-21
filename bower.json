@@ -1,3 +1,17 @@
 {
-	
+  "name": "pabloslandscaping",
+  "version": "0.0.0",
+  "homepage": "https://github.com/peb7268/pabloslandscaping",
+  "authors": [
+    "peb7268 <peb7268@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./js/vendors/",
+    "test",
+    "tests"
+  ]
 }
